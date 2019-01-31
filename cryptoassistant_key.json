@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cryptoassistant-be67b",
+  "private_key_id": "38e847ce6c0c5142c9f5e591bcb7f3550690df69",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYC+aiEXxf7rps\n3/06nTN99XbYdJRbLWnslCJI5VP8sm0kfE0MzhLo4d/c2e0wurtnsV+lEeKyZBsv\nQZDeBy+Tgej5JItFuFuLJnNvdg1v/lVuKzvDmjn2lGV+e3Qd3PMk4IJ7DFrRMuAs\nkhg6H47IqKwHkg/AGI56DA+DUTdsoBUbDslQuG5GHCbTx4Xcef6GCn9OhBOa59jr\nAXsDIvF+iuunEcC7pnfzTJCm6c//oQ0tlWq9STVnjonhzrgproF3Wf33OlrVK441\n0j2swt7l2lL9lppSv6dSwfg0enywWa5CzsWzCe81Khw7XreQfuqkIz0I3Kvpz9JJ\neSv5P78RAgMBAAECggEAG+nhuRPgSXbLQHDqQ233LrGN0uaxGlyyQF5dVaTHprEY\n9+tVey+O8uboKR1BD5g4yWt565Z1f03+0yq6AG3WQE07ICGQGwh4T3C+3mpWzx8B\nw7OzS5D8JzdCK8bgmFEpWxzkzugoPbpAi5GurqfQJ23fmDTPcybZFbzELlfKfO6v\nM6u9uoHAy8FHPzVsBqI2HdeFC/MocpkryqDWor+dUZuKcYxXBFQ+I0vEwnumun/x\nCvhey5D4up5dDsI+V0a5fTOKKheDzGBHkvAiKQdrrbcNcZiDdA9/z7V3LNx0sOMj\nHvuK5Q73lUICMxYjAzkpNIEcRrcnGVd5gadyHurVCQKBgQDvO7s1m5T+XlorvDDX\nWr3qMcpSrmICpGKQS6JCmY20QtiytJqUs9T5SSgsnsaXrd4/N+MEOyjPuoNQ7Zfm\n9p+dKRVM0YOqgvPsTuxtsWR6zeTMWzrF4Za5hewdFMaPk0V767m5IZN7n//tdF0m\nFLSUgULjXIYQoQW/iAR5z/AI5QKBgQDnMCgihZzBBVa2lYFE+dgc+WVJ+6C3Z4OI\nkmm/qIGCjSI4Tz4mbqn7HlyP+7rB+11Dz8WbCl1WpbWgeAl+mgP4N3D83Mz9NSVM\nJ2ThOZ3URRr+xtJAgi7Ar5OK9zORxMH2Q1mfLmhbyEV0U3mH44PwxjeQkSFqsx4Q\n2NuaAleWvQKBgA+42jXMsr8AzmY/aOpOQVrpyMUkRrarvPqErfY4hzKIjhs4eUw6\ngU2cvDIqgRyoxYlcD+RQSv9T35tq8eew346Bi6/PuRp0nrkx+qG+3b6gV2ACwtsM\nV057+adznRUEdbWOKVd8WGfwfO5LDnAZPkDgOdgdVYY0Pt92fezPeJPtAoGBANip\nVgO8akKu6SwmAscMyw+kXtut+VnIpgmZBYf7uJwL/nT9Nsa30Y+pTaAWj1j6ZNaH\nYq7BUOZCWGwx8tv2JSA7fSVNHMN0SicLiExXPeXQedMpq6OPHZexNDn5IBhNaGWN\nivFWgbD6iLTTAkNq4p0EdtCCYunnQZcSVQQJi+KVAoGBAL5WZ/8LOgKLqAcnuLs9\n1ogzufKPZnS6RnOePwFB37TXHxjZI9OpWECf6YCysNtdvR/USoICKQGuiv1oqEP3\nOjmhQqiXbAFwUdChtkQa3cUsDMPHKin8FFJBGRH6Ry1XhUB02jUz+zLd2qV1jY5T\n6NAraXAIc0XYd5KbNFpTT/wu\n-----END PRIVATE KEY-----\n",
+  "client_email": "cryptoassistan-temp@cryptoassistant-be67b.iam.gserviceaccount.com",
+  "client_id": "115312143109826740984",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cryptoassistan-temp%40cryptoassistant-be67b.iam.gserviceaccount.com"
+}
